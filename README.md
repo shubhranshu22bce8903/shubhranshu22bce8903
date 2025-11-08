@@ -15,7 +15,9 @@
 - ✅ Verified GitHub Student Developer
 - 🎁 Access to GitHub Student Developer Pack
 - 💼 Exploring various tools and resources for academic and personal projects
-- 🌟 Benefits expire: October 2027
+- 🌟 Benefits expire: October 31, 2027
+- ⏰ **Remaining Access: ~721 days** (as of November 2025)
+- 📊 Check current remaining days: Run `python3 check_access_days.py`
 
 ## 🌱 Currently Learning
 - Advanced algorithms and competitive programming
@@ -30,6 +32,19 @@
 ## 🔗 Resources
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [GitHub Copilot for Students](https://github.com/github-copilot/free_signup)
+
+## 📅 Check Your Access Duration
+Want to know exactly how many days you have left with GitHub Student Developer Pack?
+
+Run the included Python script:
+```bash
+python3 check_access_days.py
+```
+
+This will display:
+- Exact expiration date
+- Number of days remaining
+- List of features included in the pack
 
 ---
 
